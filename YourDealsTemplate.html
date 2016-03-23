@@ -1,0 +1,18 @@
+<!--/**
+* Created by Sourabh on 3/23/2016.
+*/-->
+    <div class="deals">
+        <div class="deal" ng-repeat="deals in  dlsctrl.deals.category">
+            <img src="{{deals.imageURL}}" alt="Smiley face" class="dealimg">
+            <div class="dealDetails">
+                <p class="cost"><sup>$</sup>{{deals.Price}}</p>
+                <p class="desc">{{deals.tagline}}</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script src="https://code.angularjs.org/1.3.15/angular.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

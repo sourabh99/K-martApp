@@ -1,0 +1,13 @@
+Follow these instructions to access application.
+ - Open index.html page. Developed similar to wire-frames.
+ - Click on Start button at bottom.
+ - Select categories on next page. Radio buttons can be selected.
+ - Select see my deals to go to next page.
+ - Deals page has two tabs as saved deals and available deals.
+ - SPA (Single Page Application) is achieved using angular routing. Routing specifications are written in app.js file.
+ - Views are added to page using ng-view and depending upon click by user.
+ - The data displayed on deals page is taken from controller. The data can be taken from any API just by calling service.
+ - DealsController and SavedDealsController files contains the data fetched on deals page.
+ - Random images are used. UX can be made better once get real used images.
+ - AngularJS used as JS framework to make it pure MVC app.
+ - style.css file has all styling for application.

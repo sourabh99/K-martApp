@@ -1,0 +1,245 @@
+/**
+ * Created by Sourabh on 3/23/2016.
+ */
+
+#containerblk{
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+
+    background-color: #E4E4E4;
+    width: 375px;
+}
+
+
+#innerContainer{
+    width: inherit;
+    background-color: #33A8D6;
+}
+#innerContainer span {
+
+    float: right;
+    margin-right: 35px;
+    margin-top: 27px;
+    color: white;
+}
+
+.startnow {
+    height: 230px;
+
+}
+
+#topsymbol{
+    width: 75px;
+    height: 75px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+#startbtn{
+    padding-left: 15px;
+    border-radius: 100px;
+    background: white;
+    color: blue;
+    width: 30px;
+    height: 30px;
+    font-size: smaller;
+    position: fixed;
+    margin-top: 5px;
+    margin-left: 135px;
+    text-decoration: none;
+    padding-right: 33px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.tab {
+
+    flot:left;
+    width:100%;
+}
+.tab a {
+    color:white;
+    float:left;
+    width:50%;
+    text-decoration:none;
+    text-align:center;
+
+}
+
+.tab .left-tab {
+
+    background-color:#06BDE2;
+}
+.tab .right-tab {
+
+    background-color:#0072B8;
+}
+
+#middlecircle{
+    width:130px;
+    height: 130px;
+    margin-left: 70px;
+    margin-top: 5px;
+
+}
+
+#initialcontent{
+
+    font-size: larger;
+    font-weight: 700;
+    margin-top:7px;
+}
+#smallcircle {
+    width: 150px;
+    height: 150px;
+    margin-top: -112px;
+}
+
+
+
+.cat{
+
+    height: 100px;
+    width: 50%;
+    background-color: blue;
+    float: left;
+
+}
+
+#redio1{
+
+    margin-top: 95px;
+    margin-right: 2px;
+    height:5px;
+    width: 5px;
+}
+.btn {
+    text-align:center;
+    clear:both;
+    float:left;
+    width:100%;
+    background-color: #33A8D6;
+}
+.btn a {
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #99ceff;
+}
+.category {
+
+    border: 1px solid #33A8D6;
+    clear: both;
+    float: left;
+    width: 99.5%;
+    margin-top: 0px;
+}
+.category div {
+    flaot:left;
+    width:50%;
+
+}
+
+input[type="radio"]{
+
+    width: 21px;
+    height: 21px;
+}
+
+
+
+#dealsbtn{
+    margin-top: 30px;
+    margin-left: 93px;
+    height:50px;
+    width:auto;
+}
+/*third view*/
+
+#showbtn{
+    height: 20px;
+    width:50%;
+    float: left;
+    background-color: #80ffe5;
+}
+
+
+#savebtn{
+    height: 20px;
+    width:50%;
+    float:right;
+    background-color: blue;
+}
+
+
+.deals {
+    padding-bottom: 25px;
+    clear:left;
+    float:left;
+    width:100%;
+    background-color:#E4E4E4;
+}
+
+.deals .dealDetails {
+
+    float: right;
+    width: 48%;
+}
+
+.deals .dealDetails p{
+    margin-top:0px;
+}
+
+.deals .deal {
+    margin-top:10px;
+
+    height:100px;
+    background-color: azure;
+}
+
+.deals div {
+
+
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+
+
+.dealimg{
+
+    margin-left: 0px;
+    background-color: azure;
+    height: 100px;
+    width:40%;
+}
+
+.cost {
+
+    font-weight: bolder;
+    font-size: large;
+}
+
+.desc{
+    float:right;
+    margin-right: 50px;
+
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
+body {
+
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
